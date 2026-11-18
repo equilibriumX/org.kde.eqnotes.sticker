@@ -1,6 +1,6 @@
 /***************************************************************************
  *   EQ-Notes           *
- *   Copyright 2026 by Barnak Zlatko <saradnja.barnak@gmail.com>           *
+ *   2026 by Barnak Zlatko <saradnja.barnak@gmail.com>           *
  ***************************************************************************/
 
 import QtQuick
