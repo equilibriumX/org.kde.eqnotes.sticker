@@ -1,6 +1,6 @@
 /***************************************************************************
  * EQ-Notes Desktop Sticker - KDE Plasma 6
- * Copyright 2026 by Barnak Zlatko <saradnja.barnak@gmail.com>
+ * 2026 by Barnak Zlatko <saradnja.barnak@gmail.com>
  * SPDX-License-Identifier: GPL-3.0-or-later
  ***************************************************************************/
 
