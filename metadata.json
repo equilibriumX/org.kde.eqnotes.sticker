@@ -1,0 +1,21 @@
+{
+  "KPlugin": {
+    "Id": "org.kde.eqnotes.sticker",
+    "Name": "EQ-DesktopSticker",
+    "Description": "A pinned EQ-Notes item on the desktop",
+    "Icon": "view-pim-notes",
+    "Authors": [
+      {
+        "Email": "saradnja.barnak@gmail.com",
+        "Name": "Barnak Zlatko",
+        "Project": "EQuilibriumOS"
+      }
+    ],
+    "Category": "Productivity",
+    "License": "GPL-3.0-or-later",
+    "Version": "1.2.1",
+    "Website": "https://www.kde.org"
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
